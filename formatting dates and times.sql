@@ -1,0 +1,3 @@
+-- select date_format(now(),'%m %d %y')
+-- select date_format(now(),'%M %D %Y')
+-- select time_format(now(),'%H:%i %p')

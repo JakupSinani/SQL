@@ -1,0 +1,6 @@
+-- select round(5.7345,2)
+-- select truncate(5.7345,2)
+-- select round(6.2)
+-- select ceiling (5.9)
+-- select floor (5.8)
+-- select abs(-5.2)

@@ -1,0 +1,6 @@
+-- select date_add(now(),interval 1 day )
+-- select date_add(now(),interval 1 month)
+-- select date_add(now(),interval 1 year )
+-- select datediff('1999-12-23 09:00','2022-11-07 17:56 ')
+-- select time_to_sec('07:20')
+-- select time_to_sec('07:20') - time_to_sec('17:57')
